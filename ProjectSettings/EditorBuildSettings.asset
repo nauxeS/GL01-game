@@ -14,5 +14,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CouloirZone1.unity
     guid: 00ba76f84962fc44289787c5c4bfc25b
+  - enabled: 1
+    path: Assets/Scenes/Piece2Z1.unity
+    guid: 69cd7079fa725bb458f46f3ea529ec2d
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
