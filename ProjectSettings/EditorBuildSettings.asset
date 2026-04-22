@@ -17,5 +17,17 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Piece2Z1.unity
     guid: 69cd7079fa725bb458f46f3ea529ec2d
+  - enabled: 1
+    path: Assets/Scenes/Piece1.unity
+    guid: ea0cc32f72358d84fb11b080250e733a
+  - enabled: 1
+    path: Assets/Scenes/Piece3Z1.unity
+    guid: 9ed0aa25a1bb3a848a8a906a5cd77f1f
+  - enabled: 1
+    path: Assets/Scenes/Piece4Z1.unity
+    guid: 62b25cf079a3f7d469c468fbbcba5dec
+  - enabled: 1
+    path: Assets/Scenes/SaveRoomZ1.unity
+    guid: cb32055b8aa204d40a978c10c01d5f59
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
