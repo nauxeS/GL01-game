@@ -16,7 +16,11 @@ GameObject:
   - component: {fileID: 3247113783890309849}
   - component: {fileID: 5734544547370801272}
   - component: {fileID: 3101676354575431988}
+<<<<<<< Updated upstream:Assets/Projet_assets/HeroArcher.prefab
   - component: {fileID: -186800982747434517}
+=======
+  - component: {fileID: -937103942980161776}
+>>>>>>> Stashed changes:Assets/Projet_assets/Prefab/HeroArcher.prefab
   m_Layer: 3
   m_Name: HeroArcher
   m_TagString: Player
@@ -167,7 +171,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
+<<<<<<< Updated upstream:Assets/Projet_assets/HeroArcher.prefab
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"speed","value":{"$content":2.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+=======
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"speed","value":{"$content":3.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"vie","value":{"$content":100.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+>>>>>>> Stashed changes:Assets/Projet_assets/Prefab/HeroArcher.prefab
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Orientation","value":{"x":0.0,"y":0.0,"$type":"UnityEngine.Vector2"},"typeHandle":{"Identification":"UnityEngine.Vector2,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
@@ -255,7 +264,11 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+<<<<<<< Updated upstream:Assets/Projet_assets/HeroArcher.prefab
 --- !u!114 &-186800982747434517
+=======
+--- !u!114 &-937103942980161776
+>>>>>>> Stashed changes:Assets/Projet_assets/Prefab/HeroArcher.prefab
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
