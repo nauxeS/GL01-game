@@ -1,0 +1,1194 @@
+fileFormatVersion: 2
+guid: bfdc4486db6ab784f8438480a8d78f32
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9076919638668096303
+    second: petitsobjets_0
+  - first:
+      213: -7807537457247519129
+    second: petitsobjets_1
+  - first:
+      213: -2327459536952605541
+    second: petitsobjets_2
+  - first:
+      213: -5113587084244825912
+    second: petitsobjets_3
+  - first:
+      213: -7970224905114622602
+    second: petitsobjets_4
+  - first:
+      213: -4071874876026943518
+    second: petitsobjets_5
+  - first:
+      213: -6656381587042699159
+    second: petitsobjets_6
+  - first:
+      213: -8960301722899219171
+    second: petitsobjets_7
+  - first:
+      213: -7530710781916801075
+    second: petitsobjets_8
+  - first:
+      213: -4056312130901522564
+    second: petitsobjets_9
+  - first:
+      213: -1260204894100706989
+    second: petitsobjets_10
+  - first:
+      213: 968297852422974734
+    second: petitsobjets_11
+  - first:
+      213: 4849442573759698215
+    second: petitsobjets_12
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: petitsobjets_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 541
+        width: 97
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dccb622ead480280800000000000000
+      internalID: -9076919638668096303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_1
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 571
+        width: 121
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e743a7c0e06a390800000000000000
+      internalID: -7807537457247519129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 314
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9448dee1e333bfd0800000000000000
+      internalID: -2327459536952605541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 314
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8cf8bc3a3e809b0800000000000000
+      internalID: -5113587084244825912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 341
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675eba64da2146190800000000000000
+      internalID: -7970224905114622602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_5
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 266
+        width: 165
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7839cbf5bcd77c0800000000000000
+      internalID: -4071874876026943518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 264
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9687edea638cf93a0800000000000000
+      internalID: -6656381587042699159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_7
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 272
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d75468e0d96a380800000000000000
+      internalID: -8960301722899219171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 185
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 32, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc715a9717a8d7790800000000000000
+      internalID: -7530710781916801075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_9
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 186
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 30, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77c183bb9515b7c0800000000000000
+      internalID: -4056312130901522564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_10
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 188
+        width: 90
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 60, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3592bee535ad28ee0800000000000000
+      internalID: -1260204894100706989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 28
+        width: 182
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0de17a34c5107d00800000000000000
+      internalID: 968297852422974734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 114
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7255a9fc35eac4340800000000000000
+      internalID: 4849442573759698215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_13
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 188
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e3e79e68801a4459c0ad607bec5cc3
+      internalID: 1144153635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_14
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 5
+        width: 425
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 104, w: 82}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb3e06fec56c3b45bb25d4e1c84b5b9
+      internalID: 254443426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_15
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 364
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8aa7333b4ff844580d16fd650214aa
+      internalID: -930891521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_16
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 438
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2acede83feb6f43aa44b70f4f201ff
+      internalID: -351572073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_17
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 440
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d241cf3d70e4c44ac46b8ec3ce441c
+      internalID: -1555367210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_18
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 441
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6373ef18f99d5164ba634d8b65956425
+      internalID: 399294104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_19
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 440
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf0ae63d706a404693163c5d6a92b8b
+      internalID: 1147751167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_20
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 582
+        width: 99
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6590801bf8b04984ab734f82c0e866ba
+      internalID: -1509437705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_21
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 586
+        width: 100
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d424b3608dcdb419b865bc5791f86f
+      internalID: -2134164776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_22
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 594
+        width: 60
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11eb6ba67c16ee4b99c769928ec5455
+      internalID: 1216837488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_23
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 594
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a2e0508d91735418b00c8dc54470c4
+      internalID: 1429840247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_24
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 510
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8f70fd0e16aca4f801ee45675e1f2e
+      internalID: 1621447221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_25
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 507
+        width: 79
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdc172de4e829948af2eaf0392675ae
+      internalID: 629399006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 515
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1c225bea98ed44bb4d6727a4cf2f87
+      internalID: 559655189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_27
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 515
+        width: 15
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f268fdc4412564a49bf7e32a6b6df5a9
+      internalID: -657135940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_28
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 438
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31e9e2559eadf2479f1b5911618dbee
+      internalID: -508396092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_29
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 439
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d72bd61df63cf64989176adede8e5a6
+      internalID: -1607763850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_30
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 521
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fd63cfc36e6b347accc679a4895fc1
+      internalID: -721368476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_31
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 365
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2863fabecf0633b4d839a197a6ad55fc
+      internalID: 19293357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_32
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 365
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5417b2a49760a4aae587dfa32ce97e
+      internalID: 276780701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_33
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 365
+        width: 26
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f6fc777d2bc36428c1e1d8e122daad
+      internalID: -184749699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_34
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 365
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c8667f383b0a74f891da9df8ca1e36
+      internalID: -1487260437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_35
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 506
+        width: 79
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5720a505d8d54843a78873b46ba237e
+      internalID: 1980095904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_36
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 374
+        width: 71
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f441e440e2410419b9a8423f612763
+      internalID: -499627626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_37
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 546
+        width: 95
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcaf2ffa85721b4c81383937da58e1d
+      internalID: -1353743942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_38
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 366
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed5e364914a17440a1285c88605ad09
+      internalID: -143195513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_39
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 366
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c51bac22ea95b4ea6d6d4797882510
+      internalID: 1800637665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_40
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 366
+        width: 31
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1700d3fc063584ab51592d2e39ac81
+      internalID: -1213764112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_41
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 434
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a5cce6c32cfcf4c87778875903b1b3
+      internalID: -384851032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_42
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 471
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b777b056401d2345a4572287df55b8a
+      internalID: -732086843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_43
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 515
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fda6f3a1b3c75a42ace1735a4cb91a2
+      internalID: 335524839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_44
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 375
+        width: 98
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9537eb20941088d418b2b668c8943fa8
+      internalID: 1207517109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_45
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 463
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d56d4c555f0b44691d5691357386a8
+      internalID: 463691304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_46
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 462
+        width: 90
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13499dea44cd30d498a1adfd05ed3742
+      internalID: -83839956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petitsobjets_47
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 152
+        width: 104
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699b7177077547c48afae2c35308386b
+      internalID: -1102798189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: da07543a62d3aed4493f019e63d2f6a6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      petitsobjets_13: 1144153635
+      petitsobjets_14: 254443426
+      petitsobjets_15: -930891521
+      petitsobjets_16: -351572073
+      petitsobjets_17: -1555367210
+      petitsobjets_18: 399294104
+      petitsobjets_19: 1147751167
+      petitsobjets_20: -1509437705
+      petitsobjets_21: -2134164776
+      petitsobjets_22: 1216837488
+      petitsobjets_23: 1429840247
+      petitsobjets_24: 1621447221
+      petitsobjets_25: 629399006
+      petitsobjets_26: 559655189
+      petitsobjets_27: -657135940
+      petitsobjets_28: -508396092
+      petitsobjets_29: -1607763850
+      petitsobjets_30: -721368476
+      petitsobjets_31: 19293357
+      petitsobjets_32: 276780701
+      petitsobjets_33: -184749699
+      petitsobjets_34: -1487260437
+      petitsobjets_35: 1980095904
+      petitsobjets_36: -499627626
+      petitsobjets_37: -1353743942
+      petitsobjets_38: -143195513
+      petitsobjets_39: 1800637665
+      petitsobjets_40: -1213764112
+      petitsobjets_41: -384851032
+      petitsobjets_42: -732086843
+      petitsobjets_43: 335524839
+      petitsobjets_44: 1207517109
+      petitsobjets_45: 463691304
+      petitsobjets_46: -83839956
+      petitsobjets_47: -1102798189
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
