@@ -1416,11 +1416,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5009848000950725723, guid: 4c94301d6308c544482c41ae303dfdff, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.5
+      value: -0.44
       objectReference: {fileID: 0}
     - target: {fileID: 5009848000950725723, guid: 4c94301d6308c544482c41ae303dfdff, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -5.99
+      value: -6.53
       objectReference: {fileID: 0}
     - target: {fileID: 5009848000950725723, guid: 4c94301d6308c544482c41ae303dfdff, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2559,7 +2559,8 @@ PrefabInstance:
     - target: {fileID: 933201211292978325, guid: 09cdabcee2b3a844cb202c24206ba531, type: 3}
       propertyPath: _data._json
       value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"SceneName","value":{"$content":"Piece1","$type":"System.String"},"typeHandle":{"Identification":"System.String,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ArrivalPosition","value":{"x":-1.56,"y":1.47,"$type":"UnityEngine.Vector2"},"typeHandle":{"Identification":"UnityEngine.Vector2,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 6235374339785172961, guid: 09cdabcee2b3a844cb202c24206ba531, type: 3}
       propertyPath: m_Name
