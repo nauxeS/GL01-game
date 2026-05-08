@@ -29,5 +29,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SaveRoomZ1.unity
     guid: cb32055b8aa204d40a978c10c01d5f59
+  - enabled: 1
+    path: Assets/Scenes/CouloirZone2.unity
+    guid: d2464c3136c91e045abda134925c74a9
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
