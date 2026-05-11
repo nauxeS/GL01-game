@@ -5789,12 +5789,13 @@ GameObject:
   - component: {fileID: 2105604494}
   - component: {fileID: 2105604493}
   - component: {fileID: 2105604496}
+  - component: {fileID: 2105604497}
   m_Layer: 0
   m_Name: Gemini_Generated_Image_juh8qujuh8qujuh8-Photoroom_11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!212 &2105604493
 SpriteRenderer:
@@ -5871,14 +5872,14 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2105604492}
-  m_BodyType: 0
+  m_BodyType: 2
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 0
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -5890,6 +5891,85 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!60 &2105604497
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2105604492}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.67, y: 1.94}
+    newSize: {x: 1.67, y: 1.94}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.7354817, y: -0.35226035}
+      - {x: 0.7356295, y: -0.319004}
+      - {x: 0.68369, y: -0.12877856}
+      - {x: 0.6250459, y: -0.02162604}
+      - {x: 0.53903455, y: 0.06216997}
+      - {x: 0.25333923, y: 0.21972987}
+      - {x: 0.020965338, y: 0.36298496}
+      - {x: -0.19157663, y: 0.506612}
+      - {x: -0.28696653, y: 0.62630624}
+      - {x: -0.33971217, y: 0.6153232}
+      - {x: -0.405, y: 0.58}
+      - {x: -0.4023562, y: 0.48844105}
+      - {x: -0.54903466, y: 0.41735595}
+      - {x: -0.59913623, y: 0.3573562}
+      - {x: -0.63276356, y: 0.31098327}
+      - {x: -0.68354315, y: 0.26999998}
+      - {x: -0.6979493, y: 0.23274587}
+      - {x: -0.724692, y: 0.19174992}
+      - {x: -0.6785913, y: 0.13632351}
+      - {x: -0.60309607, y: 0.06310329}
+      - {x: -0.49255222, y: 0.22897494}
+      - {x: -0.29940033, y: 0.10321498}
+      - {x: -0.096428394, y: -0.060985327}
+      - {x: 0.054125637, y: -0.1461981}
+      - {x: 0.16333723, y: -0.22674823}
+      - {x: 0.28446794, y: -0.29943192}
+      - {x: 0.41619354, y: -0.40145415}
+      - {x: 0.45720387, y: -0.44381374}
+      - {x: 0.5717157, y: -0.44531506}
+      - {x: 0.68715894, y: -0.3864025}
+      - {x: 0.7190503, y: -0.38732028}
+      - {x: 0.73651975, y: -0.36993206}
+  m_UseDelaunayMesh: 0
 --- !u!1 &2114463194
 GameObject:
   m_ObjectHideFlags: 0
