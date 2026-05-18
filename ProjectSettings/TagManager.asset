@@ -8,6 +8,7 @@ TagManager:
   - Projectile
   - AccesA
   - GameManager
+  - TriggerIcon
   layers:
   - Default
   - TransparentFX
