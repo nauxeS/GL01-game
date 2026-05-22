@@ -9,6 +9,7 @@ TagManager:
   - AccesA
   - GameManager
   - TriggerIcon
+  - Livre
   layers:
   - Default
   - TransparentFX
