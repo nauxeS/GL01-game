@@ -128,7 +128,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      LivreRouge_0: -1469888321089532464
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
