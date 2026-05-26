@@ -10,6 +10,7 @@ TagManager:
   - GameManager
   - TriggerIcon
   - Livre
+  - CharacterName
   layers:
   - Default
   - TransparentFX
