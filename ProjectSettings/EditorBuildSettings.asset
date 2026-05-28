@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/MiddleRoom.unity
     guid: 6b687afdf6abeee449d9a5f05763e7fb
   - enabled: 1
-    path: Assets/Scenes/CouloirZone1.unity
+    path: Assets/Scenes/CouloirZ1.unity
     guid: 00ba76f84962fc44289787c5c4bfc25b
   - enabled: 1
     path: Assets/Scenes/Piece2Z1.unity
@@ -24,7 +24,7 @@ EditorBuildSettings:
     path: Assets/Scenes/EtageZ2.unity
     guid: d2af847d5dd9b4f419a3da62ed4b8651
   - enabled: 1
-    path: Assets/Scenes/Piece1.unity
+    path: Assets/Scenes/Piece1Z1.unity
     guid: ea0cc32f72358d84fb11b080250e733a
   - enabled: 1
     path: Assets/Scenes/bibliothequeZ2.unity
@@ -42,13 +42,13 @@ EditorBuildSettings:
     path: Assets/Scenes/Piece4Z1.unity
     guid: 62b25cf079a3f7d469c468fbbcba5dec
   - enabled: 1
-    path: Assets/Scenes/CimetiereZ.unity
+    path: Assets/Scenes/CimetiereZ2.unity
     guid: f998500252085b044b73979a3fe6d23b
   - enabled: 1
     path: Assets/Scenes/SaveRoomZ1.unity
     guid: cb32055b8aa204d40a978c10c01d5f59
   - enabled: 1
-    path: Assets/Scenes/CouloirZone2.unity
+    path: Assets/Scenes/CouloirZ2.unity
     guid: d2464c3136c91e045abda134925c74a9
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
