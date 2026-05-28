@@ -11,6 +11,7 @@ TagManager:
   - TriggerIcon
   - Livre
   - CharacterName
+  - DialogueText
   layers:
   - Default
   - TransparentFX
