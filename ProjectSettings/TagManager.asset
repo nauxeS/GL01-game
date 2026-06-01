@@ -12,6 +12,7 @@ TagManager:
   - Livre
   - CharacterName
   - DialogueText
+  - Potion
   layers:
   - Default
   - TransparentFX
