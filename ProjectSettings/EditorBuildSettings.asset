@@ -27,6 +27,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Piece1Z1.unity
     guid: ea0cc32f72358d84fb11b080250e733a
   - enabled: 1
+    path: Assets/Scenes/BossZ1.unity
+    guid: 47f2d34c6e2ee4945b182223b7bb7d90
+  - enabled: 1
     path: Assets/Scenes/bibliothequeZ2.unity
     guid: 37dd05e8c64059549bd20134545fcc06
   - enabled: 1
