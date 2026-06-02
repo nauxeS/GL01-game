@@ -128,7 +128,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SparkleFrame1_0: -2401681252693415277
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
