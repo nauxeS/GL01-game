@@ -128,7 +128,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      StatueDroite_0: -7980938511689780406
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

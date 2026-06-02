@@ -48,6 +48,9 @@ EditorBuildSettings:
     path: Assets/Scenes/CimetiereZ2.unity
     guid: f998500252085b044b73979a3fe6d23b
   - enabled: 1
+    path: Assets/Scenes/Piece3Z2.unity
+    guid: e24e02e1763c71c498bf9734b5205239
+  - enabled: 1
     path: Assets/Scenes/SaveRoomZ1.unity
     guid: cb32055b8aa204d40a978c10c01d5f59
   - enabled: 1
