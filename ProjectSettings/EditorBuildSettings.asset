@@ -54,6 +54,9 @@ EditorBuildSettings:
     path: Assets/Scenes/SaveRoomZ1.unity
     guid: cb32055b8aa204d40a978c10c01d5f59
   - enabled: 1
+    path: Assets/Scenes/Piece5Z1.unity
+    guid: f369f8bcf36e4884cacb39ec244ef51b
+  - enabled: 1
     path: Assets/Scenes/CouloirZ2.unity
     guid: d2464c3136c91e045abda134925c74a9
   m_configObjects: {}
