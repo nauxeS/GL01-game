@@ -274,6 +274,22 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3815496532805869126, guid: 5daf828cf6599f2499f2c3859a2e2ffe, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3815496532805869126, guid: 5daf828cf6599f2499f2c3859a2e2ffe, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3815496532805869126, guid: 5daf828cf6599f2499f2c3859a2e2ffe, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3815496532805869126, guid: 5daf828cf6599f2499f2c3859a2e2ffe, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4490831447628974541, guid: 5daf828cf6599f2499f2c3859a2e2ffe, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -352,6 +368,38 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4490831447628974541, guid: 5daf828cf6599f2499f2c3859a2e2ffe, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6341990737755047765, guid: 5daf828cf6599f2499f2c3859a2e2ffe, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6341990737755047765, guid: 5daf828cf6599f2499f2c3859a2e2ffe, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6341990737755047765, guid: 5daf828cf6599f2499f2c3859a2e2ffe, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6341990737755047765, guid: 5daf828cf6599f2499f2c3859a2e2ffe, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6929236232363151722, guid: 5daf828cf6599f2499f2c3859a2e2ffe, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6929236232363151722, guid: 5daf828cf6599f2499f2c3859a2e2ffe, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6929236232363151722, guid: 5daf828cf6599f2499f2c3859a2e2ffe, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6929236232363151722, guid: 5daf828cf6599f2499f2c3859a2e2ffe, type: 3}
+      propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7768415703945845990, guid: 5daf828cf6599f2499f2c3859a2e2ffe, type: 3}
@@ -505,7 +553,9 @@ PrefabInstance:
       propertyPath: _data._json
       value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"SceneName","value":{"$content":"MiddleRoom","$type":"System.String"},"typeHandle":{"Identification":"System.String,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ArrivalPosition","value":{"x":-7.2,"y":-1.5,"$type":"UnityEngine.Vector2"},"typeHandle":{"Identification":"UnityEngine.Vector2,
-        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Musique1","value":{"$content":"MusiqueZ2","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Musique2","value":{"$content":"MusiqueZ1","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 6235374339785172961, guid: 09cdabcee2b3a844cb202c24206ba531, type: 3}
       propertyPath: m_Name
