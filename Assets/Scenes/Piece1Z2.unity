@@ -4268,11 +4268,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3528747296770314711, guid: 2fb5e694b7aaec0479b500eb2e4ec870, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.53
+      value: -0.49
       objectReference: {fileID: 0}
     - target: {fileID: 3528747296770314711, guid: 2fb5e694b7aaec0479b500eb2e4ec870, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.12
+      value: 2.9
       objectReference: {fileID: 0}
     - target: {fileID: 3528747296770314711, guid: 2fb5e694b7aaec0479b500eb2e4ec870, type: 3}
       propertyPath: m_LocalPosition.z
@@ -4305,6 +4305,14 @@ PrefabInstance:
     - target: {fileID: 3528747296770314711, guid: 2fb5e694b7aaec0479b500eb2e4ec870, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 4382637293437862859, guid: 2fb5e694b7aaec0479b500eb2e4ec870, type: 3}
+      propertyPath: m_Size.y
+      value: 1.5077101
+      objectReference: {fileID: 0}
+    - target: {fileID: 4382637293437862859, guid: 2fb5e694b7aaec0479b500eb2e4ec870, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.0041614175
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6780,24 +6788,56 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1910133501}
     m_Modifications:
+    - target: {fileID: 451828708435760122, guid: c5ed4c2fc75c4e44b9f0ff08f1636e74, type: 3}
+      propertyPath: m_Size.x
+      value: 2.5029593
+      objectReference: {fileID: 0}
+    - target: {fileID: 451828708435760122, guid: c5ed4c2fc75c4e44b9f0ff08f1636e74, type: 3}
+      propertyPath: m_Size.y
+      value: 0.4139267
+      objectReference: {fileID: 0}
+    - target: {fileID: 451828708435760122, guid: c5ed4c2fc75c4e44b9f0ff08f1636e74, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.028917074
+      objectReference: {fileID: 0}
+    - target: {fileID: 451828708435760122, guid: c5ed4c2fc75c4e44b9f0ff08f1636e74, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.27040577
+      objectReference: {fileID: 0}
+    - target: {fileID: 1575139418687988801, guid: c5ed4c2fc75c4e44b9f0ff08f1636e74, type: 3}
+      propertyPath: m_Radius
+      value: 1.6062139
+      objectReference: {fileID: 0}
+    - target: {fileID: 1575139418687988801, guid: c5ed4c2fc75c4e44b9f0ff08f1636e74, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.0383083
+      objectReference: {fileID: 0}
+    - target: {fileID: 1575139418687988801, guid: c5ed4c2fc75c4e44b9f0ff08f1636e74, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.14028867
+      objectReference: {fileID: 0}
     - target: {fileID: 2110137071337036524, guid: c5ed4c2fc75c4e44b9f0ff08f1636e74, type: 3}
       propertyPath: _data._json
       value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Number","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Nom","value":{"$content":"grande
-        cl\u00e9","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Nom","value":{"$content":"de
+        la salle de bal.","$type":"System.String"},"typeHandle":{"Identification":"System.String,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 7623035780775872403, guid: c5ed4c2fc75c4e44b9f0ff08f1636e74, type: 3}
       propertyPath: m_Name
       value: Coffre
       objectReference: {fileID: 0}
+    - target: {fileID: 8830939597216894363, guid: c5ed4c2fc75c4e44b9f0ff08f1636e74, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8930665184872690982, guid: c5ed4c2fc75c4e44b9f0ff08f1636e74, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.0567732
+      value: -1.01
       objectReference: {fileID: 0}
     - target: {fileID: 8930665184872690982, guid: c5ed4c2fc75c4e44b9f0ff08f1636e74, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.9556959
+      value: 1.92
       objectReference: {fileID: 0}
     - target: {fileID: 8930665184872690982, guid: c5ed4c2fc75c4e44b9f0ff08f1636e74, type: 3}
       propertyPath: m_LocalPosition.z
