@@ -128,7 +128,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      coffre3_0: -4694401480068482506
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
