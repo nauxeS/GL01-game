@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c3c9c17d93152a643ba42b1a09ebc722
+guid: 4ad6ceb42b7b7754e88ad98f7c01ae1b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3267172835665962683
-    second: Gemini_Generated_Image_1g1jpv1g1jpv1g1j (1)_0
+      213: -1253171689180766714
+    second: etagereblanche_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -98,13 +98,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Gemini_Generated_Image_1g1jpv1g1jpv1g1j (1)_0
+      name: etagereblanche_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 2752
-        height: 1536
+        width: 1087
+        height: 976
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -112,8 +112,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bb6eca14264575d20800000000000000
-      internalID: 3267172835665962683
+      spriteID: 60eddcffcf6db9ee0800000000000000
+      internalID: -1253171689180766714
       vertices: []
       indices: 
       edges: []
@@ -129,7 +129,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Gemini_Generated_Image_1g1jpv1g1jpv1g1j (1)_0: 3267172835665962683
+      etagereblanche_0: -1253171689180766714
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
