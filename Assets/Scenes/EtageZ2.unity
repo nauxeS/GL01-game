@@ -2886,6 +2886,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coffre
       objectReference: {fileID: 0}
+    - target: {fileID: 8830939597216894363, guid: c5ed4c2fc75c4e44b9f0ff08f1636e74, type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8930665184872690982, guid: c5ed4c2fc75c4e44b9f0ff08f1636e74, type: 3}
       propertyPath: m_LocalPosition.x
       value: -10.733359
