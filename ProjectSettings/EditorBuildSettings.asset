@@ -66,6 +66,9 @@ EditorBuildSettings:
     path: Assets/Scenes/CouloirZ2.unity
     guid: d2464c3136c91e045abda134925c74a9
   - enabled: 1
+    path: Assets/Scenes/ExplicationTouches.unity
+    guid: 7e3c03d22848a32419063acb88ff6c5e
+  - enabled: 1
     path: Assets/Scenes/UI.unity
     guid: 7db69adaefa96344596ec9ac24669637
   m_configObjects: {}
