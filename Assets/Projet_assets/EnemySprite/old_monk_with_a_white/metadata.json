@@ -1,0 +1,36 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "f72bc6e1-2ad1-4e0c-9450-c4460843510f",
+        "name": "old monk with a white",
+        "prompt": "old monk with a white beard ",
+        "size": {
+          "width": 180,
+          "height": 180
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "high top-down",
+        "created_at": "2026-05-11T12:23:51.891654+00:00"
+      },
+      "folder": "old_monk_with_a_white",
+      "frames": {
+        "rotations": {
+          "south": "old_monk_with_a_white/rotations/south.png",
+          "south-east": "old_monk_with_a_white/rotations/south-east.png",
+          "east": "old_monk_with_a_white/rotations/east.png",
+          "north-east": "old_monk_with_a_white/rotations/north-east.png",
+          "north": "old_monk_with_a_white/rotations/north.png",
+          "north-west": "old_monk_with_a_white/rotations/north-west.png",
+          "west": "old_monk_with_a_white/rotations/west.png",
+          "south-west": "old_monk_with_a_white/rotations/south-west.png"
+        },
+        "animations": {}
+      }
+    }
+  ],
+  "export_version": "3.0",
+  "export_date": "2026-06-11T08:44:20.755627"
+}
