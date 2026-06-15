@@ -12389,7 +12389,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -282281487
   m_SortingLayer: 1
-  m_SortingOrder: 0
+  m_SortingOrder: -2
   m_Sprite: {fileID: -7423104630793640495, guid: a84e483ea701c2b44b6508ce54d52233, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -15401,7 +15401,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -282281487
   m_SortingLayer: 1
-  m_SortingOrder: 0
+  m_SortingOrder: -1
   m_Sprite: {fileID: -3429327900449159391, guid: a84e483ea701c2b44b6508ce54d52233, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -34130,6 +34130,85 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &1888751705
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 284976603973504393, guid: 018a0afb1d3b674459f7098ba72df3cb, type: 3}
+      propertyPath: m_Name
+      value: GameNote
+      objectReference: {fileID: 0}
+    - target: {fileID: 1488577052005094986, guid: 018a0afb1d3b674459f7098ba72df3cb, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Titre","value":{"$content":"Lettre
+        du 23/10/1431","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Contenu","value":{"$content":["J''ai
+        enfin pu rencontrer le p\u00e8re Religi. Il n''y a pas \u00e0 dire, il ne
+        laisse pas indiff\u00e9rent. Il m''a accueilli chaleureusement.","Il s''est
+        excus\u00e9 de n''\u00eatre pas venu \u00e0 ma rencontre plus t\u00f4t. Il
+        s''est justifi\u00e9 en disant qu''il ne voulait rencontrer que les plus
+        d\u00e9termin\u00e9s.","Je lui ai parl\u00e9 de mon voeu, et il m''a dit
+        qu''il ne pouvait pas l''exhaucer pour le moment. Il m''a inviter \u00e0
+        rester ici pour quelques mois.","Je lui ai aussi pos\u00e9 des questions
+        sur les monstres du ch\u00e2teau. Il a \u00e9vit\u00e9 le sujet... Je ne
+        saurais pas dire quoi, mais j''ai le sentiment que quelque chose cloche ici..."],"$type":"System.Collections.Generic.List`1[[System.String,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[System.String,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 4292620931758960128, guid: 018a0afb1d3b674459f7098ba72df3cb, type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8307252635447312864, guid: 018a0afb1d3b674459f7098ba72df3cb, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.8251016
+      objectReference: {fileID: 0}
+    - target: {fileID: 8307252635447312864, guid: 018a0afb1d3b674459f7098ba72df3cb, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 8307252635447312864, guid: 018a0afb1d3b674459f7098ba72df3cb, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8307252635447312864, guid: 018a0afb1d3b674459f7098ba72df3cb, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8307252635447312864, guid: 018a0afb1d3b674459f7098ba72df3cb, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8307252635447312864, guid: 018a0afb1d3b674459f7098ba72df3cb, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8307252635447312864, guid: 018a0afb1d3b674459f7098ba72df3cb, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8307252635447312864, guid: 018a0afb1d3b674459f7098ba72df3cb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8307252635447312864, guid: 018a0afb1d3b674459f7098ba72df3cb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8307252635447312864, guid: 018a0afb1d3b674459f7098ba72df3cb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 018a0afb1d3b674459f7098ba72df3cb, type: 3}
 --- !u!1 &1890506666
 GameObject:
   m_ObjectHideFlags: 0
@@ -34710,7 +34789,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -282281487
   m_SortingLayer: 1
-  m_SortingOrder: 1
+  m_SortingOrder: -1
   m_Sprite: {fileID: -5230183119034049380, guid: a84e483ea701c2b44b6508ce54d52233, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -37582,3 +37661,4 @@ SceneRoots:
   - {fileID: 2101767908}
   - {fileID: 711544827}
   - {fileID: 185289371}
+  - {fileID: 1888751705}

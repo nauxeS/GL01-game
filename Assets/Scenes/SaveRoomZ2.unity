@@ -856,6 +856,22 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3815496532805869126, guid: 5daf828cf6599f2499f2c3859a2e2ffe, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3815496532805869126, guid: 5daf828cf6599f2499f2c3859a2e2ffe, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3815496532805869126, guid: 5daf828cf6599f2499f2c3859a2e2ffe, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3815496532805869126, guid: 5daf828cf6599f2499f2c3859a2e2ffe, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4490831447628974541, guid: 5daf828cf6599f2499f2c3859a2e2ffe, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -936,6 +952,38 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6341990737755047765, guid: 5daf828cf6599f2499f2c3859a2e2ffe, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6341990737755047765, guid: 5daf828cf6599f2499f2c3859a2e2ffe, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6341990737755047765, guid: 5daf828cf6599f2499f2c3859a2e2ffe, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6341990737755047765, guid: 5daf828cf6599f2499f2c3859a2e2ffe, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6929236232363151722, guid: 5daf828cf6599f2499f2c3859a2e2ffe, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6929236232363151722, guid: 5daf828cf6599f2499f2c3859a2e2ffe, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6929236232363151722, guid: 5daf828cf6599f2499f2c3859a2e2ffe, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6929236232363151722, guid: 5daf828cf6599f2499f2c3859a2e2ffe, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7768415703945845990, guid: 5daf828cf6599f2499f2c3859a2e2ffe, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -961,6 +1009,80 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5daf828cf6599f2499f2c3859a2e2ffe, type: 3}
+--- !u!1001 &989399652
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 284976603973504393, guid: 018a0afb1d3b674459f7098ba72df3cb, type: 3}
+      propertyPath: m_Name
+      value: GameNote
+      objectReference: {fileID: 0}
+    - target: {fileID: 1488577052005094986, guid: 018a0afb1d3b674459f7098ba72df3cb, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Titre","value":{"$content":"Lettre
+        du 20/10/1431","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Contenu","value":{"$content":["Cela
+        fait plus d''une semaine que je suis rest\u00e9 coinc\u00e9 dans ce ch\u00e2teau,
+        mais je pense en voir venir la fin... J''ai enfin trouv\u00e9 la cl\u00e9
+        de la salle de bal.","Si mon intuition est bonne, le p\u00e8re Religi devrait
+        \u00eatre derri\u00e8re cette grande porte. Mais plusieurs de mes questions
+        restent sans r\u00e9ponse... ","Si il est aussi g\u00e9n\u00e9reux que ce
+        qu''on laisse entendre, pourquoi se cache-t-il ? Pourquoi ne met-il pas fin
+        \u00e0 la guerre et \u00e0 la maladie ?","Mais surtout, d''o\u00f9 viennent
+        tous ces monstres ?"],"$type":"System.Collections.Generic.List`1[[System.String,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[System.String,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 8307252635447312864, guid: 018a0afb1d3b674459f7098ba72df3cb, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.1023662
+      objectReference: {fileID: 0}
+    - target: {fileID: 8307252635447312864, guid: 018a0afb1d3b674459f7098ba72df3cb, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.47087383
+      objectReference: {fileID: 0}
+    - target: {fileID: 8307252635447312864, guid: 018a0afb1d3b674459f7098ba72df3cb, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8307252635447312864, guid: 018a0afb1d3b674459f7098ba72df3cb, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8307252635447312864, guid: 018a0afb1d3b674459f7098ba72df3cb, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8307252635447312864, guid: 018a0afb1d3b674459f7098ba72df3cb, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8307252635447312864, guid: 018a0afb1d3b674459f7098ba72df3cb, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8307252635447312864, guid: 018a0afb1d3b674459f7098ba72df3cb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8307252635447312864, guid: 018a0afb1d3b674459f7098ba72df3cb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8307252635447312864, guid: 018a0afb1d3b674459f7098ba72df3cb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 018a0afb1d3b674459f7098ba72df3cb, type: 3}
 --- !u!1 &1182792591
 GameObject:
   m_ObjectHideFlags: 0
@@ -2339,3 +2461,4 @@ SceneRoots:
   - {fileID: 1206945506}
   - {fileID: 880554576}
   - {fileID: 877888915}
+  - {fileID: 989399652}
